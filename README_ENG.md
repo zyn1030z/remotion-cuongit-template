@@ -215,4 +215,8 @@ For any issues regarding open-source repos, feel free to ask for support!
 ---
 
 ## 📄 License
-This project is open-source and available under the **[MIT License](LICENSE)**.
+
+This template code is open-source and free to use for the community. However, this project is built using the **Remotion** framework.
+
+> [!IMPORTANT]
+> Be aware of that Remotion has a special license and requires obtaining a company license in some cases. Read the [LICENSE](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md) page for more information.

@@ -217,4 +217,14 @@ Với các repo mình công khai, có vướng mắc mình sẽ giải đáp cho
 ---
 
 ## 📄 Giấy phép (License)
-Dự án được phân phối dưới giấy phép **[MIT License](LICENSE)**. Tự do sử dụng cho mục đích cá nhân và thương mại.
+
+Mã nguồn template này được chia sẻ miễn phí cho mục đích học tập và phát triển cộng đồng. Tuy nhiên, dự án sử dụng framework **Remotion**.
+
+> [!IMPORTANT]
+> **Lưu ý về Giấy phép của Remotion:**  
+> Remotion áp dụng chính sách giấy phép đặc biệt và yêu cầu phải có giấy phép doanh nghiệp (Company License) trong một số trường hợp nhất định (đối với các công ty/tổ chức thương mại vượt quá quy mô/doanh thu quy định).
+> 
+> Vui lòng tham khảo chi tiết tại trang: [Remotion LICENSE](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+
+> **Remotion License Notice:**  
+> Be aware of that Remotion has a special license and requires obtaining a company license in some cases. Read the [LICENSE](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md) page for more information.
