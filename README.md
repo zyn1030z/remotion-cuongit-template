@@ -91,7 +91,7 @@ EDGE_TTS_VOLUME=+0%
 EDGE_TTS_OUTPUT_DIR=public/audio
 
 # Thương hiệu kênh (Hiển thị góc trên giữa video)
-CHANNEL_NAME="CƯỜNG IT"
+CHANNEL_NAME="Công nghệ và cuộc sống"
 ```
 
 ---

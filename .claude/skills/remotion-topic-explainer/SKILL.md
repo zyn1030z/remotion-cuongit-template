@@ -30,7 +30,7 @@ EDGE_TTS_RATE=+10%
 EDGE_TTS_PITCH=+0Hz
 EDGE_TTS_VOLUME=+0%
 EDGE_TTS_OUTPUT_DIR=public/audio
-CHANNEL_NAME="CƯỜNG IT"
+CHANNEL_NAME="Công nghệ và cuộc sống"
 ```
 
 ---
