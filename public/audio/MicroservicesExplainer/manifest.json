@@ -1,0 +1,65 @@
+{
+  "topic": "MicroservicesExplainer",
+  "voice": "vi-VN-HoaiMyNeural",
+  "rate": "+10%",
+  "totalScenes": 6,
+  "totalDurationFrames": 1355,
+  "totalDurationSec": 45.2,
+  "scenes": [
+    {
+      "id": "scene1_hook",
+      "text": "Tại sao các ông lớn như Netflix hay Amazon đều chuyển toàn bộ hệ thống khổng lồ của họ sang Microservices?",
+      "audioPath": "audio/MicroservicesExplainer/scene1_hook.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene1_hook.mp3",
+      "sizeBytes": 36720,
+      "estimatedDurationSec": 6.12,
+      "durationInFrames": 194
+    },
+    {
+      "id": "scene2_problem",
+      "text": "Trước đây với kiến trúc Monolith, toàn bộ ứng dụng bị nhồi chung một khối. Một tính năng nhỏ bị lỗi có thể kéo sập cả hệ thống!",
+      "audioPath": "audio/MicroservicesExplainer/scene2_problem.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene2_problem.mp3",
+      "sizeBytes": 48096,
+      "estimatedDurationSec": 8.02,
+      "durationInFrames": 251
+    },
+    {
+      "id": "scene3_decompose",
+      "text": "Microservices giải quyết triệt để bằng cách chia nhỏ thành các dịch vụ độc lập: Auth, Giỏ hàng, Thanh toán, kết nối nhịp nhàng qua API Gateway.",
+      "audioPath": "audio/MicroservicesExplainer/scene3_decompose.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene3_decompose.mp3",
+      "sizeBytes": 49104,
+      "estimatedDurationSec": 8.18,
+      "durationInFrames": 256
+    },
+    {
+      "id": "scene4_scaling",
+      "text": "Dịch vụ nào quá tải chỉ cần scale riêng dịch vụ đó, mỗi nhóm kỹ sư tự do chọn ngôn ngữ tối ưu như Go, Nodejs hay Python.",
+      "audioPath": "audio/MicroservicesExplainer/scene4_scaling.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene4_scaling.mp3",
+      "sizeBytes": 43632,
+      "estimatedDurationSec": 7.27,
+      "durationInFrames": 229
+    },
+    {
+      "id": "scene5_impact",
+      "text": "Hệ thống đạt độ sẵn sàng cao và deploy liên tục, nhưng đòi hỏi trình độ DevOps vững vàng để quản lý mạng lưới phức tạp.",
+      "audioPath": "audio/MicroservicesExplainer/scene5_impact.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene5_impact.mp3",
+      "sizeBytes": 38160,
+      "estimatedDurationSec": 6.36,
+      "durationInFrames": 201
+    },
+    {
+      "id": "scene6_outro",
+      "text": "Microservices không phải viên đạn bạc, hãy áp dụng đúng thời điểm. Follow kênh để nâng tầm kiến trúc mỗi ngày nhé!",
+      "audioPath": "audio/MicroservicesExplainer/scene6_outro.mp3",
+      "filePath": "/Users/macbook/Development/remotion-cuongit-template/public/audio/MicroservicesExplainer/scene6_outro.mp3",
+      "sizeBytes": 42768,
+      "estimatedDurationSec": 7.13,
+      "durationInFrames": 224
+    }
+  ],
+  "generatedAt": "2026-09-18T08:38:27.759Z"
+}

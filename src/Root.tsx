@@ -4,6 +4,8 @@ import { DockerExplainer } from "./DockerExplainer/DockerExplainer";
 import { dockerExplainerSchema } from "./DockerExplainer/types";
 import { SSLExplainer } from "./SSLExplainer/SSLExplainer";
 import { sslExplainerSchema } from "./SSLExplainer/types";
+import { MicroservicesExplainer } from "./MicroservicesExplainer/MicroservicesExplainer";
+import { microservicesExplainerSchema } from "./MicroservicesExplainer/types";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -35,6 +37,21 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={{
           title: "SSL là gì?",
           subtitle: "Giải thích trong 50 giây",
+        }}
+      />
+
+      {/* 46s AI Voice Explainer: Microservices */}
+      <Composition
+        id="MicroservicesExplainer"
+        component={MicroservicesExplainer}
+        durationInFrames={1380}
+        fps={30}
+        width={1080}
+        height={1920}
+        schema={microservicesExplainerSchema}
+        defaultProps={{
+          title: "Microservices là gì?",
+          subtitle: "Giải thích trong 46 giây",
         }}
       />
     </>
